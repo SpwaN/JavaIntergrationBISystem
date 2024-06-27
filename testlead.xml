@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+   <contact>
+      <companyname>Anders jobbar mer AB</companyname>
+      <name>Anders Andersson</name>
+      <phone>0700000000</phone>
+   </contact>
+   <contact>
+      <companyname>Jonas jobbar AB</companyname>
+      <name>Jonas Jonasson</name>
+      <phone">0700012300</phone>
+   </contact>
+</contacts>
